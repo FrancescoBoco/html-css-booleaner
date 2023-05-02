@@ -1,3 +1,4 @@
+/* Inizio Header */
 #logo-header{
     height: 150px;
     background-color: rgb(8, 154, 212);
@@ -16,4 +17,28 @@
 
 .h1{
     font-size: 50px;
+    margin-bottom: 0%;
 }
+
+.light-test{
+    color: gray;
+}
+
+#link-style{
+    text-decoration: none;
+    color: rgb(90, 196, 238);
+}
+#subtitle-date{
+    font-size:12px;
+    color: grey;
+}
+
+.img-tim{
+    margin-top: 20px;
+}
+
+.top-paragraph{
+    margin: 0%;
+    font-size: 14px;
+}
+/* Fine Header */
