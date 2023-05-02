@@ -1,0 +1,19 @@
+#logo-header{
+    height: 150px;
+    background-color: rgb(8, 154, 212);
+    background-image:url("../img/pattern.png");
+    background-repeat: repeat;
+    position: relative;
+}
+
+#img-logo{
+    height: 75px;
+    background-position: bottom;
+    position: absolute;
+    bottom: 10px;
+    left: 0%;
+}
+
+.h1{
+    font-size: 50px;
+}
