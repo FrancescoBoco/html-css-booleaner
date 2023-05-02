@@ -53,11 +53,32 @@
 }
 
 
+thead{
+    background-color: rgb(74, 188, 233);
+    color: white;
+}
+
+.tbody-color{
+    background-color: rgb(158, 216, 239);
+}
+
+.th{
+    text-align: left;
+}
+.td-25{
+    width: 25%;
+}
+
+.td-50{
+    width: 50%;
+}
+
 
 .highlight-text{
     background-color: yellow;
 }
 
+ /* fine main  */
 .img-footer{
     height: 30vh;
     width: 30vh;
@@ -65,8 +86,7 @@
     padding: 10px;
     color: white;
     font-size: 25px;
-    font
-
+    font;
 }
 
 .img1{
